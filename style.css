@@ -1,0 +1,44 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 300%;
+}
+h2 {
+  color: red;
+  text-align: left;
+  font-family: courier;
+  font-size: 160%;
+}
+
+h3 {
+  color: purple;
+  text-align: left;
+  font-weight: bold;
+  font-family: courier;
+  font-size: 100%;}
+}
+
+p {
+  border: 2px solid powderblue;
+}
+
+ submit {
+    color: red;
+    font-size: 15;
+    font-weight: bold;
+    width: 135px;
+    height: 60px;
+    border: none;
+    margin: 0;
+    padding: 0;
+     background: #0c0 url(image) 0 0 no-repeat;
+}
+
+animate  {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 5s;
+}
